@@ -1,0 +1,6 @@
+pmOnFail: ignore
+
+minimumReleaseAgeExclude:
+  - '@next/*'
+  - next
+  - '@types/node@24.19.0'
