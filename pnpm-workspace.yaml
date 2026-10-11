@@ -6,5 +6,5 @@ minimumReleaseAgeExclude:
   - '@types/node@24.19.0'
 
 allowBuilds:
-  esbuild: set this to true or false
-  workerd: set this to true or false
+  esbuild: false
+  workerd: false
